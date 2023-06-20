@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.4ccbb61d.css",
+    "main.js": "/Portfolio/static/js/main.4de3bd4d.js",
+    "static/media/intro-img.jpg": "/Portfolio/static/media/intro-img.4a535b37d5d256792517.jpg",
+    "static/media/homePage.png": "/Portfolio/static/media/homePage.c83dad9a63762bf65031.png",
+    "static/media/ReactJS.jpg": "/Portfolio/static/media/ReactJS.8366a8b38e08a6a0e43b.jpg",
+    "static/media/spring-boot.jpg": "/Portfolio/static/media/spring-boot.6f85f66fe04368c07014.jpg",
+    "static/media/Resume_AtharvaN.pdf": "/Portfolio/static/media/Resume_AtharvaN.16080afc81375245feeb.pdf",
+    "static/media/medRem.jpg": "/Portfolio/static/media/medRem.61549ed1840e0a2d946f.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.4ccbb61d.css.map": "/Portfolio/static/css/main.4ccbb61d.css.map",
+    "main.4de3bd4d.js.map": "/Portfolio/static/js/main.4de3bd4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ccbb61d.css",
+    "static/js/main.4de3bd4d.js"
+  ]
+}
